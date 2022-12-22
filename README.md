@@ -1,5 +1,4 @@
 # From Spencer's [website](https://spencerpao.github.io/)
-# Aji's [website](https://ajiprasetyo11.github.io/)
 
 Used from the al-folio template mentioned below.
 
