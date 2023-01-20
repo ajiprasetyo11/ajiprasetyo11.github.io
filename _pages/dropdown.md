@@ -1,5 +1,5 @@
 <!-- ---
-layout: page
+layout: pages
 title: Example Submenu
 nav: true
 dropdown: true
